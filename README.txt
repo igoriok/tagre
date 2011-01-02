@@ -1,0 +1,1 @@
+Tasks Aggregator (tagre) - client-server solution to store all tasks in one way. It will aggregate information from various sources like e-mail, facebook, twitter, rss and other. You can search and filter all tasks.
